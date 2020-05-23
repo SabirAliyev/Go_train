@@ -37,4 +37,5 @@ func main() {
 	// Инициализируем объект Count и передаём в WriteLog().
 	count := Count(3)
 	WriteLog(count)
+
 }
